@@ -8,8 +8,8 @@ modified: 2026-03-22T20:46:31.000-04:00
 
 # Links
 - [[Wiki/People/Neverwinter/Baladir\|Baladir]]: 
-    - [[Wiki/People/Neverwinter/Baladir\|Baladir]]
     - [[Wiki/Quests/Secure Aid from Neverwinter\|Secure Aid from Neverwinter]]
+    - [[Wiki/People/Neverwinter/Baladir\|Baladir]]
 
 
 # Details
