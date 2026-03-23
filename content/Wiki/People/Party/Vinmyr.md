@@ -10,9 +10,9 @@ modified: 2026-03-22T20:46:31.000-04:00
     - [[Sessions/Session 21 (2026-03-22)\|Session 21 (2026-03-22)]]
     - [[Sessions/Session 20 (2026-03-01)\|Session 20 (2026-03-01)]]
     - [[Sessions/Session 17 (2026-01-31)\|Session 17 (2026-01-31)]]
+    - [[index\|index]]
     - [[Wiki/Quests/Secure Aid from Neverwinter\|Secure Aid from Neverwinter]]
     - [[Wiki/Organizations/Wedding Party\|Wedding Party]]
-    - [[index\|index]]
 
 
 # Details
