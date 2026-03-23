@@ -11,6 +11,7 @@ modified: 2026-03-22T20:46:31.000-04:00
     - [[Sessions/Session 21 (2026-03-22)\|Session 21 (2026-03-22)]]
     - [[Sessions/Session 20 (2026-03-01)\|Session 20 (2026-03-01)]]
     - [[Wiki/Quests/Secure Aid from Neverwinter\|Secure Aid from Neverwinter]]
+    - [[Wiki/People/Neverwinter/Baladir\|Baladir]]
 
 
 # Details
