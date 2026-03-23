@@ -16,7 +16,7 @@ modified: 2026-03-22T20:46:31.000-04:00
     - [[Wiki/Organizations/Wedding Party\|Wedding Party]]
     - [[Wiki/Places/Thundertree\|Thundertree]]
     - [[Wiki/People/Thundertree/Rhydoth\|Rhydoth]]
-    - [[Welcome\|Welcome]]
+    - [[index\|index]]
 
 
 # Details
