@@ -16,6 +16,7 @@ modified: 2026-03-22T20:46:31.000-04:00
     - [[Wiki/Organizations/Wedding Party\|Wedding Party]]
     - [[Wiki/People/Party/Wedelia\|Wedelia]]
     - [[Wiki/People/Neverwinter/Baladir\|Baladir]]
+    - [[Sessions/Session 22 (2026-03-29)\|Session 22 (2026-03-29)]]
 
 
 # Details

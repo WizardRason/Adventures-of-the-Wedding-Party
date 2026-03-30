@@ -12,6 +12,7 @@ modified: 2026-03-22T20:46:31.000-04:00
     - [[Sessions/Session 21 (2026-03-22)\|Session 21 (2026-03-22)]]
     - [[Sessions/Session 20 (2026-03-01)\|Session 20 (2026-03-01)]]
     - [[Wiki/People/Party/Morgan\|Morgan]]
+    - [[Sessions/Session 22 (2026-03-29)\|Session 22 (2026-03-29)]]
 
 
 # Details
