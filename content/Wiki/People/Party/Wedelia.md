@@ -15,6 +15,7 @@ modified: 2026-03-22T20:46:31.000-04:00
     - [[index\|index]]
     - [[Wiki/Organizations/Wedding Party\|Wedding Party]]
     - [[Wiki/Places/Sword Coast\|Sword Coast]]
+    - [[Sessions/Session 23 (2026-04-25)\|Session 23 (2026-04-25)]]
 
 
 # Details

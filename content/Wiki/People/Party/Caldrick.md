@@ -17,6 +17,7 @@ modified: 2026-03-22T20:46:31.000-04:00
     - [[Wiki/People/Party/Wedelia\|Wedelia]]
     - [[Wiki/People/Neverwinter/Baladir\|Baladir]]
     - [[Sessions/Session 22 (2026-03-29)\|Session 22 (2026-03-29)]]
+    - [[Sessions/Session 23 (2026-04-25)\|Session 23 (2026-04-25)]]
 
 
 # Details

@@ -15,6 +15,7 @@ modified: 2026-03-22T20:46:31.000-04:00
     - [[Wiki/Quests/Deliver Letter to the Lords’ Alliance\|Deliver Letter to the Lords’ Alliance]]
     - [[Wiki/Quests/Phandalin Election\|Phandalin Election]]
     - [[Wiki/Organizations/Wedding Party\|Wedding Party]]
+    - [[Sessions/Session 23 (2026-04-25)\|Session 23 (2026-04-25)]]
 
 
 # Details

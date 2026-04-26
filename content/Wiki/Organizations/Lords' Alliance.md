@@ -14,6 +14,7 @@ modified: 2026-03-22T20:46:31.000-04:00
     - [[Wiki/Quests/Secure Aid from Neverwinter\|Secure Aid from Neverwinter]]
     - [[Wiki/People/Sildar\|Sildar]]
     - [[Wiki/People/Neverwinter/Victor\|Victor]]
+    - [[Sessions/Session 23 (2026-04-25)\|Session 23 (2026-04-25)]]
 
 
 # Details

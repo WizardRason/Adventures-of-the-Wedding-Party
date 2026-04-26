@@ -2,8 +2,9 @@
 publish: true
 aliases:
   - Gundren Rockseeker
+  - Goldtooth
 created: 2025-05-17T15:59:54.000-04:00
-modified: 2026-03-22T20:46:31.000-04:00
+modified: 2026-04-25T20:22:22.174-04:00
 ---
 
 # Links
@@ -14,6 +15,7 @@ modified: 2026-03-22T20:46:31.000-04:00
     - [[Wiki/Quests/Attacks at the Mine\|Attacks at the Mine]]
     - [[Wiki/Organizations/Wedding Party\|Wedding Party]]
     - [[Wiki/Places/Sword Coast\|Sword Coast]]
+    - [[Sessions/Session 23 (2026-04-25)\|Session 23 (2026-04-25)]]
 
 
 # Details

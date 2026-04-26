@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-05-17T15:45:54.000-04:00
-modified: 2026-03-22T20:46:31.000-04:00
+modified: 2026-04-25T19:36:47.545-04:00
 ---
 
 # Links
@@ -16,7 +16,10 @@ modified: 2026-03-22T20:46:31.000-04:00
     - [[Wiki/Quests/Secure Aid from Neverwinter\|Secure Aid from Neverwinter]]
     - [[Wiki/Organizations/Wedding Party\|Wedding Party]]
     - [[Sessions/Session 22 (2026-03-29)\|Session 22 (2026-03-29)]]
+    - [[Sessions/Session 23 (2026-04-25)\|Session 23 (2026-04-25)]]
 
 
 # Details
 Member of the medical group [[Wiki/Organizations/UPMC]]
+
+Made a watcher of the [[Wiki/Organizations/Harpers]] by the senior member [[Wiki/People/Phandalin/Sister Garaele]]
