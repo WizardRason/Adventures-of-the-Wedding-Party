@@ -7,9 +7,9 @@ modified: 2026-03-22T20:46:31.000-04:00
 # Links
 - [[Wiki/People/Party/Valerian\|Valerian]]: 
     - [[Sessions/Session 16 (2026-01-11)\|Session 16 (2026-01-11)]]
+    - [[Sessions/Session 22 (2026-03-29)\|Session 22 (2026-03-29)]]
     - [[index\|index]]
     - [[Wiki/Organizations/Wedding Party\|Wedding Party]]
-    - [[Sessions/Session 22 (2026-03-29)\|Session 22 (2026-03-29)]]
 
 
 # Details
