@@ -3,23 +3,19 @@ publish: true
 aliases:
   - Ben Dover
 created: 2025-05-17T15:45:19.000-04:00
-modified: 2026-03-22T20:46:31.000-04:00
+modified: 2026-05-02T18:17:50.000-04:00
 ---
 
-# Links
-- [[Wiki/People/Party/Doe\|Doe]]: 
-    - [[Sessions/Session 21 (2026-03-22)\|Session 21 (2026-03-22)]]
-    - [[Sessions/Session 19 (2026-02-20)\|Session 19 (2026-02-20)]]
-    - [[Sessions/Session 22 (2026-03-29)\|Session 22 (2026-03-29)]]
-    - [[Sessions/Session 20 (2026-03-01)\|Session 20 (2026-03-01)]]
-    - [[Sessions/Session 17 (2026-01-31)\|Session 17 (2026-01-31)]]
-    - [[index\|index]]
-    - [[Sessions/Session 23 (2026-04-25)\|Session 23 (2026-04-25)]]
-    - [[Wiki/Quests/Marsh Hag\|Marsh Hag]]
-    - [[Wiki/Organizations/Wedding Party\|Wedding Party]]
-    - [[Wiki/Places/Thundertree\|Thundertree]]
-    - [[Wiki/People/Thundertree/Rhydoth\|Rhydoth]]
-
+# Connections
+- [[Wiki/People/Party/Caldrick\|Caldrick]]
+- [[Wiki/People/Party/Morgan\|Morgan]]
+- [[Wiki/People/Doe Connections/Rhydoth\|Rhydoth]]
+- [[Wiki/People/Party/Riberta\|Riberta]]
+- [[Wiki/Places/Thundertree\|Thundertree]]
+- [[Wiki/People/Party/Valerian\|Valerian]]
+- [[Wiki/People/Party/Vinmyr\|Vinmyr]]
+- [[Wiki/Organizations/Wedding Party\|Wedding Party]]
+- [[Wiki/People/Party/Wedelia\|Wedelia]]
 
 # Details
 Father was a mason, and wanted him to go into the family business. 

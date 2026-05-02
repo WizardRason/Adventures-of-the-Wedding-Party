@@ -1,20 +1,50 @@
 ---
 publish: true
 created: 2026-01-21T17:23:13.470-05:00
-modified: 2026-03-22T20:46:31.000-04:00
+modified: 2026-05-02T17:58:02.000-04:00
 ---
 
-# Links
-- [[Wiki/Organizations/Lords' Alliance\|Lords' Alliance]]: 
-    - [[Sessions/Session 18 (2026-02-08)\|Session 18 (2026-02-08)]]
-    - [[Sessions/Session 21 (2026-03-22)\|Session 21 (2026-03-22)]]
-    - [[Sessions/Session 20 (2026-03-01)\|Session 20 (2026-03-01)]]
-    - [[Sessions/Session 17 (2026-01-31)\|Session 17 (2026-01-31)]]
-    - [[Wiki/Quests/Phandalin Election\|Phandalin Election]]
-    - [[Sessions/Session 23 (2026-04-25)\|Session 23 (2026-04-25)]]
-    - [[Wiki/Quests/Secure Aid from Neverwinter\|Secure Aid from Neverwinter]]
-    - [[Wiki/People/Sildar\|Sildar]]
-    - [[Wiki/People/Neverwinter/Victor\|Victor]]
-
+# Connections
+- [[Wiki/Lore/People/Alagondar\|Alagondar]]
+- [[Wiki/People/Neverwinter/Baladir\|Baladir]]
+- [[Wiki/Lore/People/Bogentle\|Bogentle]]
+- [[Wiki/People/Party/Caldrick\|Caldrick]]
+- [[Wiki/People/Phandalin/Carp\|Carp]]
+- [[Wiki/Places/Chult\|Chult]]
+- [[Wiki/People/Phandalin/Darren\|Darren]]
+- [[Wiki/People/Party/Doe\|Doe]]
+- [[Wiki/Lore/Dunamancy\|Dunamancy]]
+- [[Wiki/People/Phandalin/Gary\|Gary]]
+- [[Wiki/People/Phandalin/Gundren\|Gundren]]
+- [[Wiki/People/Phandalin/Halia\|Halia]]
+- [[Wiki/Organizations/Harpers\|Harpers]]
+- [[Wiki/People/Phandalin/Iarno\|Iarno]]
+- [[Wiki/Lore/People/Lumaday\|Lumaday]]
+- [[Wiki/Lore/Gods/Luxon\|Luxon]]
+- [[Wiki/People/Party/Morgan\|Morgan]]
+- [[Wiki/Lore/People/Nasher\|Nasher]]
+- [[Wiki/Places/Neverwinter\|Neverwinter]]
+- [[Wiki/People/Phandalin/Nundrow\|Nundrow]]
+- [[Wiki/Places/Phandalin\|Phandalin]]
+- [[Wiki/People/Phandalin/Pip\|Pip]]
+- [[Wiki/People/Phandalin/Quelline\|Quelline]]
+- [[Wiki/Lore/Gods/Red Knight\|Red Knight]]
+- [[Wiki/Organizations/Redbrands\|Redbrands]]
+- [[Wiki/People/Doe Connections/Rhydoth\|Rhydoth]]
+- [[Wiki/People/Party/Riberta\|Riberta]]
+- [[Wiki/People/Phandalin/Sildar\|Sildar]]
+- [[Wiki/People/Phandalin/Sister Garaele\|Sister Garaele]]
+- [[Wiki/People/Phandalin/Tharden\|Tharden]]
+- [[Wiki/Organizations/The Crew\|The Crew]]
+- [[Wiki/Places/Thundertree\|Thundertree]]
+- [[Wiki/People/Phandalin/Toblen\|Toblen]]
+- [[Wiki/People/Phandalin/Trilena\|Trilena]]
+- [[Wiki/Organizations/UPMC\|UPMC]]
+- [[Wiki/People/Party/Valerian\|Valerian]]
+- [[Wiki/People/Neverwinter/Victor\|Victor]]
+- [[Wiki/People/Party/Vinmyr\|Vinmyr]]
+- [[Wiki/Organizations/Wedding Party\|Wedding Party]]
+- [[Wiki/People/Party/Wedelia\|Wedelia]]
+- [[Wiki/Organizations/Zhentarim\|Zhentarim]]
 
 # Details

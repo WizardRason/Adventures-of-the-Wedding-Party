@@ -3,21 +3,18 @@ publish: true
 aliases:
   - Half pint
 created: 2025-12-30T23:08:28.071-05:00
-modified: 2026-03-22T20:46:31.000-04:00
+modified: 2026-05-02T18:18:08.000-04:00
 ---
 
-# Links
-- [[Wiki/People/Party/Wedelia\|Wedelia]]: 
-    - [[Sessions/Session 16 (2026-01-11)\|Session 16 (2026-01-11)]]
-    - [[Sessions/Session 18 (2026-02-08)\|Session 18 (2026-02-08)]]
-    - [[Sessions/Session 20 (2026-03-01)\|Session 20 (2026-03-01)]]
-    - [[Sessions/Session 17 (2026-01-31)\|Session 17 (2026-01-31)]]
-    - [[index\|index]]
-    - [[Sessions/Session 23 (2026-04-25)\|Session 23 (2026-04-25)]]
-    - [[Wiki/Organizations/Wedding Party\|Wedding Party]]
-    - [[Wiki/Places/Sword Coast\|Sword Coast]]
-    - [[Sessions/Session 24 (2026-05-02)\|Session 24 (2026-05-02)]]
-
+# Connections
+- [[Wiki/People/Party/Caldrick\|Caldrick]]
+- [[Wiki/People/Party/Doe\|Doe]]
+- [[Wiki/People/Party/Morgan\|Morgan]]
+- [[Wiki/People/Party/Riberta\|Riberta]]
+- [[Wiki/Organizations/The Crew\|The Crew]]
+- [[Wiki/People/Party/Valerian\|Valerian]]
+- [[Wiki/People/Party/Vinmyr\|Vinmyr]]
+- [[Wiki/Organizations/Wedding Party\|Wedding Party]]
 
 # Details
 Childhood friend of [[Wiki/People/Party/Caldrick]]

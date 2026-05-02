@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-08T14:59:17.242-05:00
-modified: 2026-03-22T20:46:31.000-04:00
+modified: 2026-05-02T18:56:08.000-04:00
 ---
 
 # Premise
@@ -11,7 +11,7 @@ One of the ex guards from them can be found at the Beached Leviathan
 # Notes
 ## The Beached Leviathan
 We meet the captain, first mate, lookout, shipwright, bouncer, 2 water genasi 
-==The guard was named [[Wiki/People/Neverwinter/Baladir\|Baladir Josephun]], but is kinda a prick. He'll be to the bar sometime in the next hour==
+The guard was named [[Wiki/People/Neverwinter/Baladir\|Baladir Josephun]], but is kinda a prick. He'll be to the bar sometime in the next hour
 The dwarf tells [[Wiki/People/Party/Vinmyr]] about a pirates hoard at one of the floating islands.
 [[Wiki/People/Party/Morgan]] talks to the captain, both have respect for the work ethic of the other
 ### [[Wiki/People/Neverwinter/Baladir]]
