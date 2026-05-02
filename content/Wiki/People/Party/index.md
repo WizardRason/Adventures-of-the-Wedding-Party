@@ -6,7 +6,10 @@ modified: 2026-03-22T23:31:27.280-04:00
 ---
 
 
-# Members
+# Connections
+
+# Details
+## Members
 [[Wiki/People/Party/Morgan]]
 [[Wiki/People/Party/Caldrick]]
 [[Wiki/People/Party/Valerian]]
@@ -18,8 +21,8 @@ Previous Members
 
 
 Temporary Members
+[[Wiki/People/Party/Riberta]]
 
-
-# Initial Premise
-## The Party
-The group was hired by [[Wiki/People/Sildar]] and [[Wiki/People/Gundren]] to escort materials and equipment for a mine being set up in [[Wiki/Places/Phandalin]]. 
+## Initial Premise
+### The Party
+The group was hired by [[Wiki/People/Phandalin/Sildar]] and [[Wiki/People/Phandalin/Gundren]] to escort materials and equipment for a mine being set up in [[Wiki/Places/Phandalin]]. 
