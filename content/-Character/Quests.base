@@ -1,0 +1,48 @@
+filters:
+  and:
+    - file.inFolder("Wiki/Quests")
+    - file.name != "index"
+properties:
+  note.Complete:
+    displayName: Done
+  file.name:
+    displayName: Quest
+views:
+  - type: table
+    name: Available
+    filters:
+      and:
+        - Collected == false
+    groupBy:
+      property: Complete
+      direction: ASC
+    order:
+      - file.name
+      - Quest-Giver
+      - Location
+      - Reward
+      - Complete
+      - Collected
+    sort: []
+    columnSize:
+      file.name: 159
+      note.Quest-Giver: 123
+      note.Location: 105
+      note.Reward: 149
+    rowHeight: medium
+  - type: table
+    name: Completed
+    filters:
+      and:
+        - Collected == true
+    groupBy:
+      property: Complete
+      direction: ASC
+    order:
+      - file.name
+      - Quest-Giver
+      - Location
+      - Reward
+    sort: []
+    columnSize: {}
+    rowHeight: medium
