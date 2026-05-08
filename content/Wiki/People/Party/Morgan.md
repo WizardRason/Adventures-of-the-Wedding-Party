@@ -5,10 +5,10 @@ modified: 2026-05-02T18:17:57.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Caldrick\|Caldrick]]
+- [[Wiki/People/Party/Caldrik\|Caldrik]]
 - [[Wiki/People/Party/Doe\|Doe]]
 - [[Wiki/Organizations/Harpers\|Harpers]]
-- [[Wiki/People/Party/Riberta\|Riberta]]
+- [[Wiki/People/Misc/Riberta\|Riberta]]
 - [[Wiki/People/Phandalin/Sister Garaele\|Sister Garaele]]
 - [[Wiki/Organizations/UPMC\|UPMC]]
 - [[Wiki/People/Party/Valerian\|Valerian]]

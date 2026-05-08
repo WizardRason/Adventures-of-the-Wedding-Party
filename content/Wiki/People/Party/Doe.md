@@ -7,10 +7,10 @@ modified: 2026-05-02T18:17:50.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Caldrick\|Caldrick]]
+- [[Wiki/People/Party/Caldrik\|Caldrik]]
 - [[Wiki/People/Party/Morgan\|Morgan]]
 - [[Wiki/People/Doe Connections/Rhydoth\|Rhydoth]]
-- [[Wiki/People/Party/Riberta\|Riberta]]
+- [[Wiki/People/Misc/Riberta\|Riberta]]
 - [[Wiki/Places/Thundertree\|Thundertree]]
 - [[Wiki/People/Party/Valerian\|Valerian]]
 - [[Wiki/People/Party/Vinmyr\|Vinmyr]]

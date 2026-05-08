@@ -6,12 +6,12 @@ modified: 2026-05-02T18:38:54.000-04:00
 
 # Connections
 - [[Wiki/Lore/People/Alagondar\|Alagondar]]
-- [[Wiki/People/Party/Caldrick\|Caldrick]]
+- [[Wiki/People/Party/Caldrik\|Caldrik]]
 - [[Wiki/People/Party/Doe\|Doe]]
 - [[Wiki/People/Party/Morgan\|Morgan]]
 - [[Wiki/Lore/People/Nasher\|Nasher]]
 - [[Wiki/Lore/Gods/Red Knight\|Red Knight]]
-- [[Wiki/People/Party/Riberta\|Riberta]]
+- [[Wiki/People/Misc/Riberta\|Riberta]]
 - [[Wiki/People/Party/Vinmyr\|Vinmyr]]
 - [[Wiki/Organizations/Wedding Party\|Wedding Party]]
 - [[Wiki/People/Party/Wedelia\|Wedelia]]

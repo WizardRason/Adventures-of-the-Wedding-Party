@@ -11,7 +11,7 @@ modified: 2026-03-22T23:31:27.280-04:00
 # Details
 ## Members
 [[Wiki/People/Party/Morgan]]
-[[Wiki/People/Party/Caldrick]]
+[[Wiki/People/Party/Caldrik]]
 [[Wiki/People/Party/Valerian]]
 [[Wiki/People/Party/Doe]]
 [[Wiki/People/Party/Vinmyr]]
@@ -21,7 +21,7 @@ Previous Members
 
 
 Temporary Members
-[[Wiki/People/Party/Riberta]]
+[[Wiki/People/Misc/Riberta]]
 
 ## Initial Premise
 ### The Party

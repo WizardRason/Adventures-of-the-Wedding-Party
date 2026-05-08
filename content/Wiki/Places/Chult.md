@@ -5,7 +5,7 @@ modified: 2026-05-02T18:10:45.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Riberta\|Riberta]]
+- [[Wiki/People/Misc/Riberta\|Riberta]]
 
 # Details
 A peninsula with varied species, and even has dinosaurs. 

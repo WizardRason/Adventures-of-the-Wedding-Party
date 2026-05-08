@@ -5,7 +5,7 @@ modified: 2026-05-02T18:11:20.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Caldrick\|Caldrick]]
+- [[Wiki/People/Party/Caldrik\|Caldrik]]
 
 # Details
 There is a rift that goes through the city caused during the spell plague. Linked to the events of Mount Hotenow when it erupted and destroyed [[Wiki/Places/Thundertree]]. 

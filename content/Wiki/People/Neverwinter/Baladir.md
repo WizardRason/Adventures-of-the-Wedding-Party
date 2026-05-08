@@ -3,11 +3,11 @@ publish: true
 aliases:
   - Baladir Josephun
 created: 2026-02-08T16:13:30.442-05:00
-modified: 2026-05-02T17:59:49.000-04:00
+modified: 2026-05-06T17:07:35.000-04:00
 ---
 
 # Connections
 - [[Wiki/People/Neverwinter/Victor\|Victor]]
 
 # Details
-[[Wiki/People/Party/Caldrick]] made a deal with [[Wiki/People/Neverwinter/Baladir]] to sing his praises in exchange for information on [[Wiki/People/Neverwinter/Victor]] and his vault
+[[Wiki/People/Party/Caldrik]] made a deal with [[Wiki/People/Neverwinter/Baladir]] to sing his praises in exchange for information on [[Wiki/People/Neverwinter/Victor]] and his vault
