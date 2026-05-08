@@ -5,8 +5,10 @@ modified: 2026-05-02T18:11:55.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Doe\|Doe]]
-- [[Wiki/People/Doe Connections/Rhydoth\|Rhydoth]]
+
+- [[Wiki/People/Party/Doe.md|Doe]]
+- [[Wiki/People/Doe Connections/Rhydoth.md|Rhydoth]]
 
 # Details
-Home of [[Wiki/People/Party/Doe]]
+
+Home of [[Doe]]

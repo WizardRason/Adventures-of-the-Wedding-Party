@@ -7,7 +7,9 @@ modified: 2026-05-06T17:07:35.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Neverwinter/Victor\|Victor]]
+
+- [[Wiki/People/Neverwinter/Victor.md|Victor]]
 
 # Details
-[[Wiki/People/Party/Caldrik]] made a deal with [[Wiki/People/Neverwinter/Baladir]] to sing his praises in exchange for information on [[Wiki/People/Neverwinter/Victor]] and his vault
+
+[[Caldrik]] made a deal with [[Baladir]] to sing his praises in exchange for information on [[Victor]] and his vault

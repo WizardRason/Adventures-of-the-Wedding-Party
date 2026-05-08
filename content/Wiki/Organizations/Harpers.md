@@ -5,7 +5,8 @@ modified: 2026-05-02T17:57:48.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Morgan\|Morgan]]
-- [[Wiki/People/Phandalin/Sister Garaele\|Sister Garaele]]
+
+- [[Wiki/People/Party/Morgan.md|Morgan]]
+- [[Wiki/People/Phandalin/Sister Garaele.md|Sister Garaele]]
 
 # Details

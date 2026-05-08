@@ -5,6 +5,9 @@ modified: 2026-05-08T13:44:45.097-04:00
 ---
 
 # Premise
-The brothers of [[Wiki/People/Phandalin/Gundren]] were kidnapped by [[Wiki/People/Phandalin/Halia]] in an attempt to influence the election in [[Wiki/Places/Phandalin]]. We were asked to help them to reduce the [[Wiki/Organizations/Zhentarim]] influence on the election. 
+
+The brothers of [[Gundren]] were kidnapped by [[Halia]] in an attempt to influence the election in [[Phandalin]]. We were asked to help them to reduce the [[Zhentarim]] influence on the election.
+
 # Notes
-Received sending stones from the Rockseeker brothers [[Wiki/People/Phandalin/Tharden]] and [[Wiki/People/Phandalin/Nundrow]] as thanks for saving them. While at the mysterious ruins, they seem ready for exploration. 
+
+Received sending stones from the Rockseeker brothers [[Tharden]] and [[Nundrow]] as thanks for saving them. While at the mysterious ruins, they seem ready for exploration.

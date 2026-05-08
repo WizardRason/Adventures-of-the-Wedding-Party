@@ -5,9 +5,12 @@ modified: 2026-05-02T18:01:19.000-04:00
 ---
 
 # Connections
-- [[Wiki/Lore/People/Nasher\|Nasher]]
-- [[Wiki/People/Party/Valerian\|Valerian]]
+
+- [[Wiki/Lore/People/Nasher.md|Nasher]]
+- [[Wiki/People/Party/Valerian.md|Valerian]]
 
 # Details
+
 # Details
-The previous ruling family of [[Wiki/Places/Neverwinter]]
+
+The previous ruling family of [[Neverwinter]]

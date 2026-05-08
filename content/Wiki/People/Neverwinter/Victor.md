@@ -7,7 +7,9 @@ modified: 2026-05-02T18:00:08.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Neverwinter/Baladir\|Baladir]]
+
+- [[Wiki/People/Neverwinter/Baladir.md|Baladir]]
 
 # Details
-Leader of a pickpocket organization in [[Wiki/Places/Neverwinter]]. The [[Wiki/Organizations/Lords' Alliance]] wants to steal from his vault
+
+Leader of a pickpocket organization in [[Neverwinter]]. The [[Lords' Alliance]] wants to steal from his vault

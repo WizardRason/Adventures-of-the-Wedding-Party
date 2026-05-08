@@ -7,29 +7,33 @@ modified: 2026-05-06T17:07:35.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Caldrik\|Caldrik]]
-- [[Wiki/People/Party/Doe\|Doe]]
-- [[Wiki/People/Party/Morgan\|Morgan]]
-- [[Wiki/People/Misc/Riberta\|Riberta]]
-- [[Wiki/People/Party/Valerian\|Valerian]]
-- [[Wiki/People/Party/Vinmyr\|Vinmyr]]
-- [[Wiki/People/Party/Wedelia\|Wedelia]]
+
+- [[Wiki/People/Party/Caldrik.md|Caldrik]]
+- [[Wiki/People/Party/Doe.md|Doe]]
+- [[Wiki/People/Party/Morgan.md|Morgan]]
+- [[Wiki/People/Misc/Riberta.md|Riberta]]
+- [[Wiki/People/Party/Valerian.md|Valerian]]
+- [[Wiki/People/Party/Vinmyr.md|Vinmyr]]
+- [[Wiki/People/Party/Wedelia.md|Wedelia]]
 
 # Details
+
 ## Members
-[[Wiki/People/Party/Morgan]]
-[[Wiki/People/Party/Caldrik]]
-[[Wiki/People/Party/Valerian]]
-[[Wiki/People/Party/Doe]]
-[[Wiki/People/Party/Vinmyr]]
-[[Wiki/People/Party/Wedelia]]
+
+[[Morgan]]
+[[Caldrik]]
+[[Valerian]]
+[[Doe]]
+[[Vinmyr]]
+[[Wedelia]]
 
 Previous Members
 
-
 Temporary Members
-[[Wiki/People/Misc/Riberta]]
+[[Riberta]]
 
 ## Initial Premise
+
 ### The Party
-The group was hired by [[Wiki/People/Phandalin/Sildar]] and [[Wiki/People/Phandalin/Gundren]] to escort materials and equipment for a mine being set up in [[Wiki/Places/Phandalin]]. 
+
+The group was hired by [[Sildar]] and [[Gundren]] to escort materials and equipment for a mine being set up in [[Phandalin]].

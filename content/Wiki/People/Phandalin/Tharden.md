@@ -7,8 +7,10 @@ modified: 2026-05-02T18:05:33.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Phandalin/Gundren\|Gundren]]
-- [[Wiki/People/Phandalin/Nundrow\|Nundrow]]
+
+- [[Wiki/People/Phandalin/Gundren.md|Gundren]]
+- [[Wiki/People/Phandalin/Nundrow.md|Nundrow]]
 
 # Details
-The more talkative of [[Wiki/People/Phandalin/Gundren]]'s brothers. Also brother of [[Wiki/People/Phandalin/Nundrow]]
+
+The more talkative of [[Gundren]]'s brothers. Also brother of [[Nundrow]]

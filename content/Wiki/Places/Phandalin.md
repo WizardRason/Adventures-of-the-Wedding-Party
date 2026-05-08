@@ -7,4 +7,5 @@ modified: 2026-05-02T18:11:15.000-04:00
 # Connections
 
 # Details
-A mining town recently rebuilt south of [[Wiki/Places/Neverwinter]]
+
+A mining town recently rebuilt south of [[Neverwinter]]

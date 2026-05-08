@@ -7,20 +7,22 @@ modified: 2026-05-02T18:17:50.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Caldrik\|Caldrik]]
-- [[Wiki/People/Party/Morgan\|Morgan]]
-- [[Wiki/People/Doe Connections/Rhydoth\|Rhydoth]]
-- [[Wiki/People/Misc/Riberta\|Riberta]]
-- [[Wiki/Places/Thundertree\|Thundertree]]
-- [[Wiki/People/Party/Valerian\|Valerian]]
-- [[Wiki/People/Party/Vinmyr\|Vinmyr]]
-- [[Wiki/Organizations/Wedding Party\|Wedding Party]]
-- [[Wiki/People/Party/Wedelia\|Wedelia]]
+
+- [[Wiki/People/Party/Caldrik.md|Caldrik]]
+- [[Wiki/People/Party/Morgan.md|Morgan]]
+- [[Wiki/People/Doe Connections/Rhydoth.md|Rhydoth]]
+- [[Wiki/People/Misc/Riberta.md|Riberta]]
+- [[Wiki/Places/Thundertree.md|Thundertree]]
+- [[Wiki/People/Party/Valerian.md|Valerian]]
+- [[Wiki/People/Party/Vinmyr.md|Vinmyr]]
+- [[Wiki/Organizations/Wedding Party.md|Wedding Party]]
+- [[Wiki/People/Party/Wedelia.md|Wedelia]]
 
 # Details
-Father was a mason, and wanted him to go into the family business. 
 
-Believes the eruption at [[Wiki/Places/Thundertree]] happened 7 years before, when the volcano erupted 40 years before
+Father was a mason, and wanted him to go into the family business.
+
+Believes the eruption at [[Thundertree]] happened 7 years before, when the volcano erupted 40 years before
 
 Real name Ben Dover
 

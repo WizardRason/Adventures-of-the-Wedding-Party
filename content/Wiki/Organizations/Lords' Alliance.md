@@ -5,7 +5,8 @@ modified: 2026-05-02T19:31:46.974-04:00
 ---
 
 # Connections
-- [[Wiki/People/Phandalin/Iarno\|Iarno]]
-- [[Wiki/People/Phandalin/Sildar\|Sildar]]
+
+- [[Wiki/People/Phandalin/Iarno.md|Iarno]]
+- [[Wiki/People/Phandalin/Sildar.md|Sildar]]
 
 # Details

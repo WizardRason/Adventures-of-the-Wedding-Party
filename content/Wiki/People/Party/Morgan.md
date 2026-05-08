@@ -5,18 +5,20 @@ modified: 2026-05-02T18:17:57.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Caldrik\|Caldrik]]
-- [[Wiki/People/Party/Doe\|Doe]]
-- [[Wiki/Organizations/Harpers\|Harpers]]
-- [[Wiki/People/Misc/Riberta\|Riberta]]
-- [[Wiki/People/Phandalin/Sister Garaele\|Sister Garaele]]
-- [[Wiki/Organizations/UPMC\|UPMC]]
-- [[Wiki/People/Party/Valerian\|Valerian]]
-- [[Wiki/People/Party/Vinmyr\|Vinmyr]]
-- [[Wiki/Organizations/Wedding Party\|Wedding Party]]
-- [[Wiki/People/Party/Wedelia\|Wedelia]]
+
+- [[Wiki/People/Party/Caldrik.md|Caldrik]]
+- [[Wiki/People/Party/Doe.md|Doe]]
+- [[Wiki/Organizations/Harpers.md|Harpers]]
+- [[Wiki/People/Misc/Riberta.md|Riberta]]
+- [[Wiki/People/Phandalin/Sister Garaele.md|Sister Garaele]]
+- [[Wiki/Organizations/UPMC.md|UPMC]]
+- [[Wiki/People/Party/Valerian.md|Valerian]]
+- [[Wiki/People/Party/Vinmyr.md|Vinmyr]]
+- [[Wiki/Organizations/Wedding Party.md|Wedding Party]]
+- [[Wiki/People/Party/Wedelia.md|Wedelia]]
 
 # Details
-Member of the medical group [[Wiki/Organizations/UPMC]]
 
-Made a watcher of the [[Wiki/Organizations/Harpers]] by the senior member [[Wiki/People/Phandalin/Sister Garaele]]
+Member of the medical group [[UPMC]]
+
+Made a watcher of the [[Harpers]] by the senior member [[Sister Garaele]]

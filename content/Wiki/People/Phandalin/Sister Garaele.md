@@ -5,8 +5,10 @@ modified: 2026-05-02T18:05:21.000-04:00
 ---
 
 # Connections
-- [[Wiki/Organizations/Harpers\|Harpers]]
-- [[Wiki/People/Party/Morgan\|Morgan]]
+
+- [[Wiki/Organizations/Harpers.md|Harpers]]
+- [[Wiki/People/Party/Morgan.md|Morgan]]
 
 # Details
-A cleric of the goddess of luck. Also a member of the secretive group the [[Wiki/Organizations/Harpers]]
+
+A cleric of the goddess of luck. Also a member of the secretive group the [[Harpers]]

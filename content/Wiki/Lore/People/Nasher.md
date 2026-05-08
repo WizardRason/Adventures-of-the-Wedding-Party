@@ -5,8 +5,10 @@ modified: 2026-05-02T18:49:04.000-04:00
 ---
 
 # Connections
-- [[Wiki/Lore/People/Alagondar\|Alagondar]]
-- [[Wiki/People/Party/Valerian\|Valerian]]
+
+- [[Wiki/Lore/People/Alagondar.md|Alagondar]]
+- [[Wiki/People/Party/Valerian.md|Valerian]]
 
 # Details
-A previous king of [[Wiki/Places/Neverwinter]]. Often considered larger than life and a true king.
+
+A previous king of [[Neverwinter]]. Often considered larger than life and a true king.

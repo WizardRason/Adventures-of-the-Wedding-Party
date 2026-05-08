@@ -7,14 +7,16 @@ modified: 2026-05-06T17:07:35.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Caldrik\|Caldrik]]
-- [[Wiki/People/Party/Doe\|Doe]]
-- [[Wiki/People/Party/Morgan\|Morgan]]
-- [[Wiki/People/Misc/Riberta\|Riberta]]
-- [[Wiki/Organizations/The Crew\|The Crew]]
-- [[Wiki/People/Party/Valerian\|Valerian]]
-- [[Wiki/People/Party/Vinmyr\|Vinmyr]]
-- [[Wiki/Organizations/Wedding Party\|Wedding Party]]
+
+- [[Wiki/People/Party/Caldrik.md|Caldrik]]
+- [[Wiki/People/Party/Doe.md|Doe]]
+- [[Wiki/People/Party/Morgan.md|Morgan]]
+- [[Wiki/People/Misc/Riberta.md|Riberta]]
+- [[Wiki/Organizations/The Crew.md|The Crew]]
+- [[Wiki/People/Party/Valerian.md|Valerian]]
+- [[Wiki/People/Party/Vinmyr.md|Vinmyr]]
+- [[Wiki/Organizations/Wedding Party.md|Wedding Party]]
 
 # Details
-Childhood friend of [[Wiki/People/Party/Caldrik]]
+
+Childhood friend of [[Caldrik]]

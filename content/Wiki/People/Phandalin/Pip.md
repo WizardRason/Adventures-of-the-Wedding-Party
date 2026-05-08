@@ -7,8 +7,10 @@ modified: 2026-05-02T18:06:51.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Phandalin/Toblen\|Toblen]]
-- [[Wiki/People/Phandalin/Trilena\|Trilena]]
+
+- [[Wiki/People/Phandalin/Toblen.md|Toblen]]
+- [[Wiki/People/Phandalin/Trilena.md|Trilena]]
 
 # Details
+
 Child of the Stonehill family

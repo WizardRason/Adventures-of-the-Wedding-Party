@@ -7,6 +7,7 @@ modified: 2026-05-02T18:02:56.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Phandalin/Quelline\|Quelline]]
+
+- [[Wiki/People/Phandalin/Quelline.md|Quelline]]
 
 # Details

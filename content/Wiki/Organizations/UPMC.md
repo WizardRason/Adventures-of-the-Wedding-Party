@@ -7,6 +7,7 @@ modified: 2026-05-02T17:58:47.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Morgan\|Morgan]]
+
+- [[Wiki/People/Party/Morgan.md|Morgan]]
 
 # Details

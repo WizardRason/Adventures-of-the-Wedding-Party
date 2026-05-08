@@ -7,8 +7,10 @@ modified: 2026-05-02T18:03:53.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Phandalin/Gundren\|Gundren]]
-- [[Wiki/People/Phandalin/Tharden\|Tharden]]
+
+- [[Wiki/People/Phandalin/Gundren.md|Gundren]]
+- [[Wiki/People/Phandalin/Tharden.md|Tharden]]
 
 # Details
-The more untrusting brother of [[Wiki/People/Phandalin/Gundren]].  Also brother of [[Wiki/People/Phandalin/Tharden]]
+
+The more untrusting brother of [[Gundren]].  Also brother of [[Tharden]]

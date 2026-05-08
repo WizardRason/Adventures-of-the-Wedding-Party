@@ -7,8 +7,10 @@ modified: 2026-05-02T18:06:36.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Phandalin/Pip\|Pip]]
-- [[Wiki/People/Phandalin/Toblen\|Toblen]]
+
+- [[Wiki/People/Phandalin/Pip.md|Pip]]
+- [[Wiki/People/Phandalin/Toblen.md|Toblen]]
 
 # Details
+
 Mother of the Stonehill family

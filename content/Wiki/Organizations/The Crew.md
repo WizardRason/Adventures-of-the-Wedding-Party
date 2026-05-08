@@ -5,10 +5,13 @@ modified: 2026-05-02T17:58:32.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Party/Wedelia\|Wedelia]]
+
+- [[Wiki/People/Party/Wedelia.md|Wedelia]]
 
 # Details
+
 ## Membership
+
 •	Captain
 •	First Mate
 •	Lookout

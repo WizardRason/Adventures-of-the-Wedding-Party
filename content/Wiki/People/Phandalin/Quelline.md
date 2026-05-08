@@ -5,7 +5,9 @@ modified: 2026-05-02T18:07:24.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Phandalin/Carp\|Carp]]
+
+- [[Wiki/People/Phandalin/Carp.md|Carp]]
 
 # Details
-A purple haired halfling of [[Wiki/Places/Phandalin]]. She has similar features to [[Wiki/People/Party/Wedelia]]
+
+A purple haired halfling of [[Phandalin]]. She has similar features to [[Wedelia]]

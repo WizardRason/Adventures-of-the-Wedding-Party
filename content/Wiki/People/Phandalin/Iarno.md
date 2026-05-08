@@ -8,10 +8,12 @@ modified: 2026-05-02T18:09:58.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Phandalin/Gary\|Gary]]
-- [[Wiki/Organizations/Lords' Alliance\|Lords' Alliance]]
-- [[Wiki/Organizations/Redbrands\|Redbrands]]
-- [[Wiki/People/Phandalin/Sildar\|Sildar]]
+
+- [[Wiki/People/Phandalin/Gary.md|Gary]]
+- [[Wiki/Organizations/Lords' Alliance.md|Lords' Alliance]]
+- [[Wiki/Organizations/Redbrands.md|Redbrands]]
+- [[Wiki/People/Phandalin/Sildar.md|Sildar]]
 
 # Details
-A wizard, and his symbol was on the [[Wiki/Organizations/Redbrands]] skeletons 
+
+A wizard, and his symbol was on the [[Redbrands]] skeletons

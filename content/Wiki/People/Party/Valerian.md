@@ -5,17 +5,19 @@ modified: 2026-05-02T18:38:54.000-04:00
 ---
 
 # Connections
-- [[Wiki/Lore/People/Alagondar\|Alagondar]]
-- [[Wiki/People/Party/Caldrik\|Caldrik]]
-- [[Wiki/People/Party/Doe\|Doe]]
-- [[Wiki/People/Party/Morgan\|Morgan]]
-- [[Wiki/Lore/People/Nasher\|Nasher]]
-- [[Wiki/Lore/Gods/Red Knight\|Red Knight]]
-- [[Wiki/People/Misc/Riberta\|Riberta]]
-- [[Wiki/People/Party/Vinmyr\|Vinmyr]]
-- [[Wiki/Organizations/Wedding Party\|Wedding Party]]
-- [[Wiki/People/Party/Wedelia\|Wedelia]]
+
+- [[Wiki/Lore/People/Alagondar.md|Alagondar]]
+- [[Wiki/People/Party/Caldrik.md|Caldrik]]
+- [[Wiki/People/Party/Doe.md|Doe]]
+- [[Wiki/People/Party/Morgan.md|Morgan]]
+- [[Wiki/Lore/People/Nasher.md|Nasher]]
+- [[Wiki/Lore/Gods/Red Knight.md|Red Knight]]
+- [[Wiki/People/Misc/Riberta.md|Riberta]]
+- [[Wiki/People/Party/Vinmyr.md|Vinmyr]]
+- [[Wiki/Organizations/Wedding Party.md|Wedding Party]]
+- [[Wiki/People/Party/Wedelia.md|Wedelia]]
 
 # Details
-Came from a noble family in Waterdeep. 
-Is actually the legitimate heir of the [[Wiki/Lore/People/Alagondar]] royal line of [[Wiki/Places/Neverwinter]]
+
+Came from a noble family in Waterdeep.
+Is actually the legitimate heir of the [[Alagondar]] royal line of [[Neverwinter]]

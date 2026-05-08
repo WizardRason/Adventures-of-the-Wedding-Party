@@ -9,4 +9,5 @@ modified: 2026-05-02T18:04:14.000-04:00
 # Connections
 
 # Details
-Owner of another farm in [[Wiki/Places/Phandalin]]
+
+Owner of another farm in [[Phandalin]]

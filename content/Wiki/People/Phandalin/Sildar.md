@@ -7,8 +7,10 @@ modified: 2026-05-02T18:16:31.000-04:00
 ---
 
 # Connections
-- [[Wiki/People/Phandalin/Iarno\|Iarno]]
-- [[Wiki/Organizations/Lords' Alliance\|Lords' Alliance]]
+
+- [[Wiki/People/Phandalin/Iarno.md|Iarno]]
+- [[Wiki/Organizations/Lords' Alliance.md|Lords' Alliance]]
 
 # Details
-Member of the [[Wiki/Organizations/Lords' Alliance]]. 
+
+Member of the [[Lords' Alliance]].
