@@ -2,6 +2,11 @@
 publish: true
 created: 2025-05-17T15:45:45.000-04:00
 modified: 2026-05-06T21:32:08.000-04:00
+published: 2026-05-06T21:32:08.000-04:00
+aliases: []
+Connections:
+  - "[[Wedding Party]]"
+  - "[[Neverwinter]]"
 ---
 
 # Connections

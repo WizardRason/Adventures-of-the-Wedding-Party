@@ -2,6 +2,9 @@
 publish: true
 created: 2026-01-11T20:23:33.956-05:00
 modified: 2026-05-02T17:57:26.000-04:00
+published: 2026-05-02T17:57:26.000-04:00
+Connections:
+  - "[[Dunamancy]]"
 ---
 
 # Connections

@@ -2,6 +2,12 @@
 publish: true
 created: 2025-05-17T15:45:54.000-04:00
 modified: 2026-05-02T18:17:57.000-04:00
+published: 2026-05-02T18:17:57.000-04:00
+aliases: []
+Connections:
+  - "[[Wedding Party]]"
+  - "[[UPMC]]"
+  - "[[Harpers]]"
 ---
 
 # Connections

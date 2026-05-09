@@ -5,6 +5,11 @@ aliases:
   - Glassstaff
 created: 2025-05-17T15:59:46.000-04:00
 modified: 2026-05-02T18:09:58.000-04:00
+published: 2026-05-02T18:09:58.000-04:00
+Connections:
+  - "[[Redbrands]]"
+  - "[[Lords' Alliance]]"
+  - Albrek
 ---
 
 # Connections

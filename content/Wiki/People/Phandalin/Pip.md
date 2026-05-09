@@ -4,6 +4,9 @@ aliases:
   - Pip Stonehill
 created: 2025-05-17T15:59:27.000-04:00
 modified: 2026-05-02T18:06:51.000-04:00
+published: 2026-05-02T18:06:51.000-04:00
+Connections:
+  - Stonehill
 ---
 
 # Connections

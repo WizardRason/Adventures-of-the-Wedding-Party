@@ -2,6 +2,11 @@
 publish: true
 created: 2026-01-31T13:48:51.434-05:00
 modified: 2026-05-02T18:43:05.000-04:00
+published: 2026-05-02T18:43:05.000-04:00
+aliases: []
+Connections:
+  - "[[Chult]]"
+  - "[[Wedding Party]]"
 ---
 
 # Connections

@@ -2,6 +2,10 @@
 publish: true
 created: 2026-05-02T18:38:22.000-04:00
 modified: 2026-05-02T18:48:29.000-04:00
+published: 2026-05-02T18:48:29.000-04:00
+aliases: []
+Connections:
+  - "[[Red Knight]]"
 ---
 
 # Connections

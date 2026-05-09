@@ -2,6 +2,7 @@
 publish: true
 created: 2025-12-30T22:28:19.000-05:00
 modified: 2026-05-08T22:49:57.096-04:00
+published: 2026-05-08T22:49:57.096-04:00
 ---
 
 | Quest                                                               | Quest Giver                                   | Location                                | Reward                      |

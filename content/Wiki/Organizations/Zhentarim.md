@@ -2,6 +2,10 @@
 publish: true
 created: 2026-01-11T17:34:09.438-05:00
 modified: 2026-05-02T17:59:14.000-04:00
+published: 2026-05-02T17:59:14.000-04:00
+aliases: []
+Connections:
+  - "[[Zhentarim]]"
 ---
 
 # Connections
