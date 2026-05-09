@@ -13,6 +13,7 @@ configuration:
     - templates
     - .obsidian
     - z_Templates
+    - -Character
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
