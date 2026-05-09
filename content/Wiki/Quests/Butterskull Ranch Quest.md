@@ -2,6 +2,12 @@
 publish: true
 created: 2026-01-11T15:44:01.991-05:00
 modified: 2026-05-06T21:18:00.000-04:00
+published: 2026-05-06T21:18:00.000-04:00
+Reward: 100gp
+Quest-Giver: Quest Board
+Location: "[[Phandalin]]"
+Complete: false
+Collected: false
 ---
 
 # Premise
