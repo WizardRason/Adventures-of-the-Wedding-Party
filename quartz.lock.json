@@ -82,8 +82,8 @@
     "created-modified-date": {
       "source": "github:quartz-community/created-modified-date",
       "resolved": "https://github.com/quartz-community/created-modified-date.git",
-      "commit": "42b5ee5561d41ab9a801a8b3acbcbaa1f5c92cbd",
-      "installedAt": "2026-04-27T20:26:56.535Z"
+      "commit": "2c7eec6ec7638d5279fa27acd68410d5a2a72f9e",
+      "installedAt": "2026-05-22T23:35:46.360Z"
     },
     "darkmode": {
       "source": "github:quartz-community/darkmode",
