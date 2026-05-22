@@ -249,8 +249,8 @@
     "syntax-highlighting": {
       "source": "github:quartz-community/syntax-highlighting",
       "resolved": "https://github.com/quartz-community/syntax-highlighting.git",
-      "commit": "8115b6f11b04a7baa7ebc6b96b1476fd6f769bb7",
-      "installedAt": "2026-04-27T22:05:09.914Z"
+      "commit": "e1055e8dc8ab348485cf39bb37c1c93894a772f5",
+      "installedAt": "2026-05-22T23:35:56.726Z"
     },
     "table-of-contents": {
       "source": "github:quartz-community/table-of-contents",
