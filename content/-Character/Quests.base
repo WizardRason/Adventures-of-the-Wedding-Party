@@ -1,0 +1,45 @@
+filters:
+  and:
+    - file.inFolder("Quests")
+    - file.name != "index"
+properties:
+  note.Complete:
+    displayName: Done
+  file.name:
+    displayName: Quest
+views:
+  - type: table
+    name: Available
+    filters:
+      and:
+        - Collected == false
+    groupBy:
+      property: Complete
+      direction: ASC
+    order:
+      - file.name
+      - Complete
+      - Collected
+      - Quest-Giver
+      - Location
+      - Reward
+    sort:
+      - property: Reward
+        direction: DESC
+    columnSize: {}
+  - type: table
+    name: Complete
+    filters:
+      and:
+        - Collected == true
+    groupBy:
+      property: Complete
+      direction: ASC
+    order:
+      - file.name
+      - Quest-Giver
+      - Location
+      - Reward
+    sort: []
+    columnSize: {}
+    rowHeight: medium
