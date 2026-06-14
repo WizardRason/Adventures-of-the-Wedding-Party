@@ -12,6 +12,7 @@ Connections:
 # Connections
 
 - [[Wiki/People/Party/Doe.md|Doe]]
+- [[Wiki/People/Doe Connections/Eileen.md|Eileen]]
 - [[Wiki/Places/Thundertree.md|Thundertree]]
 
 # Details

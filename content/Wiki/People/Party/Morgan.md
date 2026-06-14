@@ -14,6 +14,7 @@ Connections:
 
 - [[Wiki/People/Party/Caldrik.md|Caldrik]]
 - [[Wiki/People/Party/Doe.md|Doe]]
+- [[Wiki/People/Doe Connections/Eileen.md|Eileen]]
 - [[Wiki/Organizations/Harpers.md|Harpers]]
 - [[Wiki/People/Misc/Riberta.md|Riberta]]
 - [[Wiki/People/Phandalin/Sister Garaele.md|Sister Garaele]]

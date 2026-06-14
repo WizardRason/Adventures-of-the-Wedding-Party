@@ -11,6 +11,7 @@ Connections:
 
 # Connections
 
+- [[Wiki/People/Doe Connections/Eileen.md|Eileen]]
 - [[Wiki/People/Party/Morgan.md|Morgan]]
 
 # Details

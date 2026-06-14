@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Ben Dover
 created: 2025-05-17T15:45:19.000-04:00
-modified: 2026-05-02T18:17:50.000-04:00
-published: 2026-05-02T18:17:50.000-04:00
+modified: 2026-06-13T21:48:05.344-04:00
+published: 2026-06-13T21:48:05.344-04:00
 Connections:
   - "[[Wedding Party]]"
   - "[[Thundertree]]"
@@ -13,6 +13,7 @@ Connections:
 # Connections
 
 - [[Wiki/People/Party/Caldrik.md|Caldrik]]
+- [[Wiki/People/Doe Connections/Eileen.md|Eileen]]
 - [[Wiki/People/Party/Morgan.md|Morgan]]
 - [[Wiki/People/Doe Connections/Rhydoth.md|Rhydoth]]
 - [[Wiki/People/Misc/Riberta.md|Riberta]]
@@ -32,4 +33,4 @@ Real name Ben Dover
 
 Father Comb
 Mother Sen
-Sister Eileen
+Sister [[Eileen]]

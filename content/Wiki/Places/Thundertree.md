@@ -10,6 +10,7 @@ Connections:
 # Connections
 
 - [[Wiki/People/Party/Doe.md|Doe]]
+- [[Wiki/People/Doe Connections/Eileen.md|Eileen]]
 - [[Wiki/People/Doe Connections/Rhydoth.md|Rhydoth]]
 
 # Details
