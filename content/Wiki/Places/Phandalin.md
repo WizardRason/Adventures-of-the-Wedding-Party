@@ -9,6 +9,9 @@ Connections:
 
 # Connections
 
+- [[Wiki/Creatures/Gary.md|Gary]]
+- [[Wiki/People/Phandalin/Harbin.md|Harbin]]
+
 # Details
 
 A mining town recently rebuilt south of [[Neverwinter]]

@@ -3,20 +3,25 @@ publish: true
 aliases:
   - Ben Dover
 created: 2025-05-17T15:45:19.000-04:00
-modified: 2026-06-13T21:48:05.344-04:00
-published: 2026-06-13T21:48:05.344-04:00
+modified: 2026-06-26T19:16:07.175-04:00
+published: 2026-06-26T19:16:07.175-04:00
 Connections:
   - "[[Wedding Party]]"
   - "[[Thundertree]]"
+  - "[[Cervidae]]"
 ---
 
 # Connections
 
+- [[Wiki/People/Doe Connections/Buck.md|Buck]]
 - [[Wiki/People/Party/Caldrik.md|Caldrik]]
+- [[Wiki/Organizations/Cervidae.md|Cervidae]]
 - [[Wiki/People/Doe Connections/Eileen.md|Eileen]]
+- [[Wiki/People/Doe Connections/Moose.md|Moose]]
 - [[Wiki/People/Party/Morgan.md|Morgan]]
 - [[Wiki/People/Doe Connections/Rhydoth.md|Rhydoth]]
 - [[Wiki/People/Misc/Riberta.md|Riberta]]
+- [[Wiki/People/Doe Connections/Stag.md|Stag]]
 - [[Wiki/Places/Thundertree.md|Thundertree]]
 - [[Wiki/People/Party/Valerian.md|Valerian]]
 - [[Wiki/People/Party/Vinmyr.md|Vinmyr]]
