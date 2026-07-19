@@ -11,6 +11,7 @@ Connections:
 # Connections
 
 - [[Wiki/People/Phandalin/Carp.md|Carp]]
+- [[Wiki/People/Phandalin/Tobias.md|Tobias]]
 
 # Details
 

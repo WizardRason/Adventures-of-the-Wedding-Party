@@ -12,5 +12,6 @@ Connections:
 # Connections
 
 - [[Wiki/People/Phandalin/Quelline.md|Quelline]]
+- [[Wiki/People/Phandalin/Tobias.md|Tobias]]
 
 # Details
