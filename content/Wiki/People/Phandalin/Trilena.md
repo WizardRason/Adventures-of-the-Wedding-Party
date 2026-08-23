@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Trilena Stonehill
-created: 2025-05-17T15:59:18.000-04:00
-modified: 2026-07-18T18:59:07.151-04:00
-published: 2026-07-18T18:59:07.151-04:00
+created: 2025-05-17T19:59:18.000Z
+modified: 2026-07-18T22:59:07.151Z
+published: 2026-07-18T22:59:07.151Z
 Connections:
   - Stonehill
 ---

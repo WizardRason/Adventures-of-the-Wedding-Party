@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-05-30T18:08:44.572-04:00
-modified: 2026-05-30T18:15:09.916-04:00
-published: 2026-05-30T18:15:09.916-04:00
+created: 2026-05-30T22:08:44.572Z
+modified: 2026-05-30T22:15:09.916Z
+published: 2026-05-30T22:15:09.916Z
 Reward: Knowledge on the Spider History
 Quest-Giver: "[[Lyriana]]"
 Location: Neverwinter Woods

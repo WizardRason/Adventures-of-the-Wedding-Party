@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-02-08T14:59:17.242-05:00
-modified: 2026-06-13T21:51:59.031-04:00
-published: 2026-06-13T21:51:59.031-04:00
+created: 2026-02-08T19:59:17.242Z
+modified: 2026-06-14T01:51:59.031Z
+published: 2026-06-14T01:51:59.031Z
 Reward: Aid for Phandalin
 Quest-Giver: "[[Lords' Alliance]]"
 Location: "[[Neverwinter]]"

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-01-11T17:34:09.438-05:00
-modified: 2026-05-02T17:59:14.000-04:00
-published: 2026-05-02T17:59:14.000-04:00
+created: 2026-01-11T22:34:09.438Z
+modified: 2026-05-02T21:59:14.000Z
+published: 2026-05-02T21:59:14.000Z
 aliases: []
 Connections:
   - "[[Zhentarim]]"

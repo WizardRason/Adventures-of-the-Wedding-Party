@@ -1,15 +1,18 @@
 ---
 publish: true
-created: 2026-08-08T14:52:55.677-04:00
-modified: 2026-08-08T15:22:14.208-04:00
-published: 2026-08-08T15:22:14.208-04:00
-aliases: []
+aliases:
+  - The Greeter
+created: 2026-08-08T18:52:55.677Z
+modified: 2026-08-09T12:02:41.578Z
+published: 2026-08-09T12:02:41.578Z
 Connections:
   - Spider
   - Silken Sanctuary
 ---
 
 # Connections
+
+- [[Wiki/Creatures/Lyriana.md|Lyriana]]
 
 # Details
 

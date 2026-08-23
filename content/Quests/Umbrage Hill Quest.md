@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-01-11T15:44:47.448-05:00
-modified: 2026-03-22T20:46:31.000-04:00
-published: 2026-03-22T20:46:31.000-04:00
+created: 2026-01-11T20:44:47.448Z
+modified: 2026-03-23T00:46:31.000Z
+published: 2026-03-23T00:46:31.000Z
 Reward: 25gp
 Quest-Giver: Quest Board
 Location: "[[Phandalin]]"

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2025-05-17T16:45:42.000-04:00
-modified: 2026-05-02T18:11:15.000-04:00
-published: 2026-05-02T18:11:15.000-04:00
+created: 2025-05-17T20:45:42.000Z
+modified: 2026-05-02T22:11:15.000Z
+published: 2026-05-02T22:11:15.000Z
 Connections:
   - "[[Phandalin]]"
 ---

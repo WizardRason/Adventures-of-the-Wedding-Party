@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - White Dragon
-created: 2026-06-26T21:54:04.045-04:00
-modified: 2026-06-26T21:56:17.978-04:00
-published: 2026-06-26T21:56:17.978-04:00
+created: 2026-06-27T01:54:04.045Z
+modified: 2026-06-27T01:56:17.978Z
+published: 2026-06-27T01:56:17.978Z
 Connections:
 ---
 

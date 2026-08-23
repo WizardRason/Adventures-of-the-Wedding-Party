@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Lore
-created: 2026-03-22T23:22:43.186-04:00
-modified: 2026-03-22T23:32:23.549-04:00
-published: 2026-03-22T23:32:23.549-04:00
+created: 2026-03-23T03:22:43.186Z
+modified: 2026-03-23T03:32:23.549Z
+published: 2026-03-23T03:32:23.549Z
 ---
 
 THE LOOOOOOOORE

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2025-11-09T15:29:41.000-05:00
-modified: 2026-05-06T21:17:44.000-04:00
-published: 2026-05-06T21:17:44.000-04:00
+created: 2025-11-09T20:29:41.000Z
+modified: 2026-05-07T01:17:44.000Z
+published: 2026-05-07T01:17:44.000Z
 Reward: Return of Doe's soul
 Quest-Giver: Mama Mary
 Location: Mere of Dead Men

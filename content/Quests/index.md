@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Quest List
-created: 2026-03-22T23:17:01.532-04:00
-modified: 2026-05-16T20:44:03.406-04:00
-published: 2026-05-16T20:44:03.406-04:00
+created: 2026-03-23T03:17:01.532Z
+modified: 2026-05-17T00:44:03.406Z
+published: 2026-05-17T00:44:03.406Z
 ---
 
 Quests of the [[Wedding Party]], the complete, the unrewarded, and the history

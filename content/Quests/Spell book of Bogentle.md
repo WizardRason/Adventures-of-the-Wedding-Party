@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2025-12-14T17:20:24.000-05:00
-modified: 2026-05-02T18:50:19.000-04:00
-published: 2026-05-02T18:50:19.000-04:00
+created: 2025-12-14T22:20:24.000Z
+modified: 2026-05-02T22:50:19.000Z
+published: 2026-05-02T22:50:19.000Z
 Reward: 2 Health Potions
 Quest-Giver: "[[Sister Garaele]]"
 Location: "[[Phandalin]]"

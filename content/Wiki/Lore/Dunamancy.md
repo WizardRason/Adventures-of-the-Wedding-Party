@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-01-11T20:07:16.096-05:00
-modified: 2026-05-02T17:57:35.000-04:00
-published: 2026-05-02T17:57:35.000-04:00
+created: 2026-01-12T01:07:16.096Z
+modified: 2026-05-02T21:57:35.000Z
+published: 2026-05-02T21:57:35.000Z
 Connections:
   - "[[Dunamancy]]"
 ---

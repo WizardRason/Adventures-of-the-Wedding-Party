@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Darren Eldermath
-created: 2026-01-31T12:37:18.907-05:00
-modified: 2026-07-18T19:25:54.430-04:00
-published: 2026-07-18T19:25:54.430-04:00
+created: 2026-01-31T17:37:18.907Z
+modified: 2026-07-18T23:25:54.430Z
+published: 2026-07-18T23:25:54.430Z
 Connections:
   - Eldermath
   - "[[Order of the Gauntlet]]"

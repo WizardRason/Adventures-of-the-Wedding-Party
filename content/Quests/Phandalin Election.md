@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-01-31T14:32:56.542-05:00
-modified: 2026-05-06T21:16:57.000-04:00
-published: 2026-05-06T21:16:57.000-04:00
+created: 2026-01-31T19:32:56.542Z
+modified: 2026-05-07T01:16:57.000Z
+published: 2026-05-07T01:16:57.000Z
 Reward: Reduced Zhentarim Influence
 Quest-Giver: "[[Sildar]]"
 Location: "[[Phandalin]]"

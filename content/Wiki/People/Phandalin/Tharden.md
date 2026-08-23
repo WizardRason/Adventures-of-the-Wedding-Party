@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tharden Rockseeker
-created: 2026-05-02T13:08:02.422-04:00
-modified: 2026-05-02T18:05:33.000-04:00
-published: 2026-05-02T18:05:33.000-04:00
+created: 2026-05-02T17:08:02.422Z
+modified: 2026-05-02T22:05:33.000Z
+published: 2026-05-02T22:05:33.000Z
 Connections:
   - Rockseeker
 ---

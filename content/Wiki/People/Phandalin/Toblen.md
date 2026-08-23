@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Toblen Stonehill
-created: 2025-05-17T15:58:51.000-04:00
-modified: 2026-05-02T18:05:53.000-04:00
-published: 2026-05-02T18:05:53.000-04:00
+created: 2025-05-17T19:58:51.000Z
+modified: 2026-05-02T22:05:53.000Z
+published: 2026-05-02T22:05:53.000Z
 Connections:
   - Stonehill
 ---

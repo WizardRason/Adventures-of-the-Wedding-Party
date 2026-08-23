@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Gundren Rockseeker
   - Goldtooth
-created: 2025-05-17T15:59:54.000-04:00
-modified: 2026-05-02T18:09:27.000-04:00
-published: 2026-05-02T18:09:27.000-04:00
+created: 2025-05-17T19:59:54.000Z
+modified: 2026-05-02T22:09:27.000Z
+published: 2026-05-02T22:09:27.000Z
 Connections:
   - Rockseeker
   - "[[Zhentarim]]"

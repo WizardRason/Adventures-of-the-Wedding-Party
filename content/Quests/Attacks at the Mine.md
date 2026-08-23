@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-01-11T14:43:34.547-05:00
-modified: 2026-06-13T21:53:06.228-04:00
-published: 2026-06-13T21:53:06.228-04:00
+created: 2026-01-11T19:43:34.547Z
+modified: 2026-06-14T01:53:06.228Z
+published: 2026-06-14T01:53:06.228Z
 Reward: Election Influence
 Quest-Giver: "[[Gundren]]"
 Location: "[[Phandalin]]"

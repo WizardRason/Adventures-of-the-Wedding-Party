@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-05-02T18:57:26.000-04:00
-modified: 2026-06-26T19:16:33.323-04:00
-published: 2026-06-26T19:16:33.323-04:00
+created: 2026-05-02T22:57:26.000Z
+modified: 2026-06-26T23:16:33.323Z
+published: 2026-06-26T23:16:33.323Z
 aliases: []
 Connections:
   - "[[Cervidae]]"

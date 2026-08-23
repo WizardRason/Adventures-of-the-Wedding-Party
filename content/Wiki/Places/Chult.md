@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2025-12-14T15:09:41.000-05:00
-modified: 2026-05-02T18:10:45.000-04:00
-published: 2026-05-02T18:10:45.000-04:00
+created: 2025-12-14T20:09:41.000Z
+modified: 2026-05-02T22:10:45.000Z
+published: 2026-05-02T22:10:45.000Z
 Connections:
   - "[[Chult]]"
 ---

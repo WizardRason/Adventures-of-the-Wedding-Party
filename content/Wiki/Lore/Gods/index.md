@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Gods
-created: 2026-05-02T18:44:58.000-04:00
-modified: 2026-05-02T18:45:57.000-04:00
-published: 2026-05-02T18:45:57.000-04:00
+created: 2026-05-02T22:44:58.000Z
+modified: 2026-05-02T22:45:57.000Z
+published: 2026-05-02T22:45:57.000Z
 ---
 
 gods or god like beings of significance

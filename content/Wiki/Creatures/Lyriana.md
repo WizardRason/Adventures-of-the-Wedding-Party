@@ -1,13 +1,17 @@
 ---
 publish: true
-created: 2026-05-25T14:35:03.041-04:00
-modified: 2026-05-30T21:36:22.163-04:00
-published: 2026-05-30T21:36:22.163-04:00
+created: 2026-05-25T18:35:03.041Z
+modified: 2026-08-09T12:02:27.554Z
+published: 2026-08-09T12:02:27.554Z
 aliases: []
 Connections:
+  - Spider
+  - Axeholm
 ---
 
 # Connections
+
+- [[Wiki/People/Misc/Larissa.md|Larissa]]
 
 # Details
 

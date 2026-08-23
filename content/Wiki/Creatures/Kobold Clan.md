@@ -5,9 +5,9 @@ aliases:
   - Scorp
   - Thwip
   - Smol
-created: 2026-06-26T20:30:14.533-04:00
-modified: 2026-06-26T20:31:30.749-04:00
-published: 2026-06-26T20:31:30.749-04:00
+created: 2026-06-27T00:30:14.533Z
+modified: 2026-06-27T00:31:30.749Z
+published: 2026-06-27T00:31:30.749Z
 Connections:
 ---
 
