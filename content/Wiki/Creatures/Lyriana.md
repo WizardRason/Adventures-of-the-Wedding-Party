@@ -12,6 +12,8 @@ Connections:
 # Connections
 
 - [[Wiki/People/Misc/Larissa.md|Larissa]]
+- [[Wiki/Lore/Gods/Lolth.md|Lolth]]
+- [[Wiki/Lore/Gods/Zanassu.md|Zanassu]]
 
 # Details
 

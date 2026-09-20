@@ -12,7 +12,9 @@ Connections:
 
 # Connections
 
+- [[Wiki/Lore/Gods/Lolth.md|Lolth]]
 - [[Wiki/Creatures/Lyriana.md|Lyriana]]
+- [[Wiki/Lore/Gods/Zanassu.md|Zanassu]]
 
 # Details
 
